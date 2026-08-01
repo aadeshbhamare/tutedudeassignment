@@ -52,11 +52,11 @@ python assignment1(tutedude).py
 
 ### Task 1: Arithmetic Operations
 
-![Assignment 1 Task 1 Output](assignment1_task1_output.png)
+![Assignment 1 Task 1 Output](assignment.jpg)
 
 ### Task 2: Personalized Greeting
 
-![Assignment 1 Task 2 Output](assignment1_task2_output.png)
+![Assignment 1 Task 2 Output](assignment.jpg)
 
 ---
 
@@ -108,11 +108,11 @@ python assignment2(tutedude).py
 
 ### Task 1: Even or Odd Checker
 
-![Assignment 2 Task 1 Output](assignment2_task1_output.png)
+![Assignment 2 Task 1 Output](assignment2output1.png)
 
 ### Task 2: Sum of Integers from 1 to 50
 
-![Assignment 2 Task 2 Output](assignment2_task2_output.png)
+![Assignment 2 Task 2 Output](assignment2output2.png)
 
 ---
 
@@ -169,8 +169,8 @@ python assignment3(tutedude).py
 
 ### Task 1: Factorial Using a Function
 
-![Assignment 3 Task 1 Output](assignment3_task1_output.png)
+![Assignment 3 Task 1 Output](as3.png)
 
 ### Task 2: Math Module Calculations
 
-![Assignment 3 Task 2 Output](assignment3_task2_output.png)
+![Assignment 3 Task 2 Output](as3.1.png)
